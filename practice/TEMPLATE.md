@@ -1,15 +1,15 @@
-# Pair [number]
+# Pair 02
 
-Names: [name], [name]
+Names: [Zane], [Mila]
 
 ## What does a commit do?
 
-[Your answer]
+Provides a name and groups a feature
 
 ## What does push do?
 
-[Your answer]
+Publish your commit to the remote
 
 ## How is a pull request different from pull?
 
-[Your answer]
+A pull downloads code from the remote to the local while a pull request is a request to move code from one branch to another branch (usually main)
